@@ -13,7 +13,7 @@ Developers screen highlighting the team behind LearnAble
 ![Convert screen of LearnAble](screenshots/ConvertSection.png)
 ![Games screen of LearnAble](screenshots/GamesSection.png)
 ![Settings screen of LearnAble](screenshots/Settings.png)
-![Developers screen of LearnAble](screenshots/DevelopersSetion.png)
+![Developers screen of LearnAble](screenshots/DevelopersSection.png)
 Features
 
 Voice Interaction: Utilize text-to-speech and speech-to-text capabilities to engage with the app hands-free.
