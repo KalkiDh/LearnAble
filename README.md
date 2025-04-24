@@ -9,11 +9,22 @@ Games screen with upcoming educational challenges
 Settings screen for customizing the app experience
 Developers screen highlighting the team behind LearnAble
 ## Screenshots
-![Home screen of LearnAble](screenshots/HomeSection.png)
-![Convert screen of LearnAble](screenshots/ConvertSection.png)
-![Games screen of LearnAble](screenshots/GamesSection.png)
-![Settings screen of LearnAble](screenshots/Settings.png)
-![Developers screen of LearnAble](screenshots/DevelopersSection.png)
+Below are some screenshots showcasing the key features of LearnAble:
+
+<img src="screenshots/HomeSection.png" width="400">  
+*Home screen with voice interaction options*
+
+<img src="screenshots/ConvertSection.png" width="400">  
+*Convert screen for text-to-braille and braille-to-text conversion*
+
+<img src="screenshots/GamesSection.png" width="400">  
+*Games screen with upcoming educational challenges*
+
+<img src="screenshots/Settings.png" width="400">  
+*Settings screen for customizing the app experience*
+
+<img src="screenshots/DevelopersSection.png" width="400">  
+*Developers screen highlighting the team behind LearnAble*
 Features
 
 Voice Interaction: Utilize text-to-speech and speech-to-text capabilities to engage with the app hands-free.
