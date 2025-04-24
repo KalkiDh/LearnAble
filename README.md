@@ -18,7 +18,7 @@ Below are some screenshots showcasing the key features of LearnAble:
 <img src="screenshots/ConvertSection.png" width="400">  
 
 *Games screen with upcoming educational challenges*
-<img src="screenshots/GamesSection.png" width="400">  
+<img src="screenshots/Games.png" width="400">  
 
 *Settings screen for customizing the app experience*
 <img src="screenshots/Settings.png" width="400">  
